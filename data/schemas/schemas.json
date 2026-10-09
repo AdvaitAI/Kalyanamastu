@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "required": [
+    "id",
+    "culture",
+    "language",
+    "category",
+    "name",
+    "description"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "culture": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}
