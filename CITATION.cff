@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Kalyanamastu: A Benchmark for Cultural Understanding"
+type: dataset
+
+authors:
+  - family-names: Parasa
+    given-names: Niharika Sri
+
+year: 2026
+
+repository-code: "https://github.com/..."
+license: "CC-BY-4.0"
+
+abstract: >
+  Kalyanamastu is a benchmark dataset for evaluating
+  AI understanding of cultural rituals, traditions,
+  practices, and their contextual significance,
+  with an initial focus on Tamil and Telugu cultures.
