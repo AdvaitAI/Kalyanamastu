@@ -138,4 +138,4 @@ See [`LICENSE`](LICENSE) for the terms of use.
 
 ### Building AI that understands culture.
 
-** Srirastu Shubhamastu Kalyanamastu**
+** || శ్రీరస్తు శుభమస్తు కల్యాణమస్తు || 🙏✨🪷 **
