@@ -1,0 +1,11 @@
+baselines/
+├── README.md
+└── baseline.py
+
+#Report
+
+Model                  Recognition    Understanding
+-----------------------------------------------------
+Baseline               52.3           41.7
+Model A                68.4           59.2
+Model B                71.8           62.4
