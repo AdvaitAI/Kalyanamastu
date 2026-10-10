@@ -121,7 +121,8 @@ If you use Kalyanamastu in your research, please cite:
 ```bibtex
 @dataset{kalyanamastu,
   title        = {Kalyanamastu: A Benchmark for Cultural Understanding},
-  author       = {Parasa, Niharika Sri},
+  author       = {Keerthi G, Prasanth P},
+  organization = {AdvaitAI},
   year         = {2026},
   publisher    = {GitHub},
   url          = {<repository-url>}
